@@ -16,7 +16,7 @@ while 1:
     system("cls||clear")
     print("""{}
      ______                         _     
- PROWLERWIQ     
+ PROWLERWIQ1     
     
     Sms: {}           {}by {}@prowlerwiq\n  
     """.format(Fore.LIGHTCYAN_EX, len(servisler_sms), Style.RESET_ALL, Fore.LIGHTRED_EX))
